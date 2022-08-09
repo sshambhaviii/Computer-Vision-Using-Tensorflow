@@ -18,3 +18,8 @@ Learn to build Neural Networks using Tensorflow.
 
 In this Assignment, we will use CNN to classify digits in the MNIST database.
 The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems.
+
+
+## Final Task
+
+In this Assignment, we classified images of people as wearing mask correctly, incorrectly and not wearing a mask using VGG architecture.
